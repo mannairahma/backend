@@ -1,4 +1,12 @@
+------------Docker----------
 docker run -p 3000:3000 rahmamannai/backend:latest =====> run container docker on port 3000
 docker ps -a 
 docker ps
 docker restart id container
+----------git---------------
+git status 
+git add .
+git commit -m ""
+git push 
+git pull
+git clone https://github.com/mannairahma/backend.git ===> telecharger code de repo en ligne vers repo local
