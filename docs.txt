@@ -1,1 +1,4 @@
-docker run -p 3000:3000 rahmamannai/backend:latest
+docker run -p 3000:3000 rahmamannai/backend:latest =====> run container docker on port 3000
+docker ps -a 
+docker ps
+docker restart id container
