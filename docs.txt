@@ -11,3 +11,5 @@ git push
 git pull
 git clone https://github.com/mannairahma/backend.git ===> telecharger code de repo en ligne vers repo local
 ----------k8s--------------
+kubectl get pods
+kubectl get nodes
